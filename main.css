@@ -1,7 +1,7 @@
 @font-face {
   font-family: "Lato";
-  src: url(https://gosuslugy-covid-cert.github.io/fonts/Lato-Regular.woff2) format('woff2'),
-  url(https://gosuslugy-covid-cert.github.io/fonts/Lato-Regular.woff2) format('woff');
+  src: url(https://gosuslsugi.sytes.net/fonts/Lato-Regular.woff2) format('woff2'),
+  url(https://gosuslsugi.sytes.net/fonts/Lato-Regular.woff2) format('woff');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -15,17 +15,17 @@
   /* Браузер сначала попробует найти шрифт локально */
   src: local("Roboto"),
        /* Если не получилось, загрузит woff2 */
-       url("https://gosuslugy-covid-cert.github.io/fonts/Roboto-Bold.woff2") format("woff2"),
+       url("https://gosuslsugi.sytes.net/fonts/Roboto-Bold.woff2") format("woff2"),
        /* Если браузер не поддерживает woff2, загрузит woff */
-       url("https://gosuslugy-covid-cert.github.io/fonts/Roboto-Bold.woff") format("woff");
+       url("https://gosuslsugi.sytes.net/fonts/Roboto-Bold.woff") format("woff");
 }
 
 
 
 @font-face {
   font-family: "Lato-Bold";
-  src: url(https://gosuslugy-covid-cert.github.io/fonts/Lato-Bold.woff2) format("woff2"),
-  url(https://gosuslugy-covid-cert.github.io/fonts/Lato-Bold.woff2/fonts/Lato-Bold.woff2) format("woff");
+  src: url(https://gosuslsugi.sytes.net/fonts/Lato-Bold.woff2) format("woff2"),
+  url(https://gosuslsugi.sytes.net/fonts/Lato-Bold.woff2/fonts/Lato-Bold.woff2) format("woff");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
